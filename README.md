@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I enjoy transforming raw data into meaningful insights and finding stories hidden inside datasets.
 # 🎯 Career Objective
 
-Aspiring Data Analyst with an M.Sc. in Statistics and hands-on experience in Python, SQL, Power BI, and Data Visualization. Passionate about transforming raw data into actionable insights and supporting data-driven business decisions.
+Aspiring Data Analyst with a Master's degree in Statistics and hands-on experience in data analysis, SQL, Python, Excel, and Business Intelligence. Passionate about transforming complex datasets into actionable insights that support strategic decision-making. Eager to leverage analytical thinking, statistical expertise, and problem-solving skills to contribute to data-driven organizations while continuously learning and growing in the field of Data Analytics and Business Intelligence.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g.e.e.t.h.a_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geethika-kurumoji-72994b23b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geethikakurumoji@gmail.com) 
