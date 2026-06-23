@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://chatgpt.com/s/m_6a3a62b78c3081919392d05348039ba6](https://github.com/Geethika1258/Geethika1258/blob/main/Banner.png)" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Geethika1258/Geethika1258/main/Banner.png" alt="Geethika Kurumoji Banner"/>
 </p>
 # 💫 About Me:
 🔭 I'm currently working on Data Analytics projects, SQL-based business insights, and Exploratory Data Analysis (EDA).<br><br>👯 I'm looking to collaborate on Data Analytics, Business Intelligence, and open-source data projects.<br><br>🤝 I'm looking for help with Power BI, Data Science, and advanced analytics techniques.<br><br>🌱 I'm currently learning Power BI, Advanced SQL, Business Intelligence, and Data Visualization.<br><br>💬 Ask me about Statistics, Python, SQL, Excel, Data Cleaning, and Exploratory Data Analysis.<br><br>⚡ Fun fact: I enjoy transforming raw data into meaningful insights and finding stories hidden inside datasets.
@@ -60,6 +60,7 @@ https://github.com/Geethika1258/indian-stock-market-sector-analysis
 ### 📋 ApexPlanet Data Analytics Internship
 Data quality assessment, EDA, SQL business intelligence, and dashboard reporting.
 https://github.com/Geethika1258/ApexPlanet-Task1-Data-Immersion-Wrangling
+https://github.com/Geethika1258/ApexPlanet-Task2-EDA-Business-Intelligence
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Geethika1258&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
