@@ -1,9 +1,19 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Geethika1258/Geethika1258/main/Banner.png" alt="Geethika Kurumoji Banner"/>
 </p>
-# 💫 About Me:
-🔭 I'm currently working on Data Analytics projects, SQL-based business insights, and Exploratory Data Analysis (EDA).<br><br>👯 I'm looking to collaborate on Data Analytics, Business Intelligence, and open-source data projects.<br><br>🤝 I'm looking for help with Power BI, Data Science, and advanced analytics techniques.<br><br>🌱 I'm currently learning Power BI, Advanced SQL, Business Intelligence, and Data Visualization.<br><br>💬 Ask me about Statistics, Python, SQL, Excel, Data Cleaning, and Exploratory Data Analysis.<br><br>⚡ Fun fact: I enjoy transforming raw data into meaningful insights and finding stories hidden inside datasets.
+# 🪐 About Me
 
+- 🔭 I'm currently working on Data Analytics projects, SQL-based business insights, and Exploratory Data Analysis (EDA).
+
+- 👯 I'm looking to collaborate on Data Analytics, Business Intelligence, and open-source data projects.
+
+- 🤝 I'm looking for help with Power BI, Data Science, and advanced analytics techniques.
+
+- 🌱 I'm currently learning Power BI, Advanced SQL, Business Intelligence, and Data Visualization.
+
+- 💬 Ask me about Statistics, Python, SQL, Excel, Data Cleaning, and Exploratory Data Analysis.
+
+- ⚡ Fun fact: I enjoy transforming raw data into meaningful insights and finding stories hidden inside datasets.
 # 🎯 Career Objective
 
 Aspiring Data Analyst with an M.Sc. in Statistics and hands-on experience in Python, SQL, Power BI, and Data Visualization. Passionate about transforming raw data into actionable insights and supporting data-driven business decisions.
