@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="(https://chatgpt.com/s/m_6a3a62b78c3081919392d05348039ba6)" />
+</p>
 # Hi, I'm Geethika Kurumoji 👋
 
 🎓 M.Sc. Statistics Graduate
@@ -11,6 +14,8 @@
 📍 Visakhapatnam, Andhra Pradesh, India
 
 💼 Open to Data Analyst, MIS Analyst, and Business Analyst opportunities
+![](https://komarev.com/ghpvc/?username=Geethika1258&color=blue)
+
 ## Connect With Me
 
 💼 LinkedIn: http://www.linkedin.com/in/geethika-kurumoji-72994b23b
@@ -44,6 +49,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geethika1258&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethika1258&layout=compact&theme=tokyonight)
+## 🏆 GitHub Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Geethika1258&theme=tokyonight)
 ## Featured Projects
 
 ### 📊 Customer Sales Analysis
