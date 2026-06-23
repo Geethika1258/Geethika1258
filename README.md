@@ -47,15 +47,19 @@ Aspiring Data Analyst with an M.Sc. in Statistics and hands-on experience in Pyt
 
 ### 📊 Motor Insurance Claims Analysis
 End-to-end motor insurance claims analysis using Python and Tableau.
+https://github.com/Geethika1258/motor-insurance-claims-analysis
 
 ### 📈 Insurance Pricing A/B Test Analysis
 Compared flat-rate vs risk-based pricing strategies using Python and Power BI.
+https://github.com/Geethika1258/insurance-pricing-ab-test-analysis
 
 ### 📉 Indian Stock Market Sector Analysis
 Analyzed NSE sector performance and volatility patterns using Python.
+https://github.com/Geethika1258/indian-stock-market-sector-analysis
 
 ### 📋 ApexPlanet Data Analytics Internship
 Data quality assessment, EDA, SQL business intelligence, and dashboard reporting.
+https://github.com/Geethika1258/ApexPlanet-Task1-Data-Immersion-Wrangling
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Geethika1258&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
