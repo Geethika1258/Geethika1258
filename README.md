@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a3a62b78c3081919392d05348039ba6" alt="Banner"/>
+  <img src="[https://chatgpt.com/s/m_6a3a62b78c3081919392d05348039ba6](https://github.com/Geethika1258/Geethika1258/blob/main/Banner.png)" alt="Banner"/>
 </p>
 # 💫 About Me:
 🔭 I'm currently working on Data Analytics projects, SQL-based business insights, and Exploratory Data Analysis (EDA).<br><br>👯 I'm looking to collaborate on Data Analytics, Business Intelligence, and open-source data projects.<br><br>🤝 I'm looking for help with Power BI, Data Science, and advanced analytics techniques.<br><br>🌱 I'm currently learning Power BI, Advanced SQL, Business Intelligence, and Data Visualization.<br><br>💬 Ask me about Statistics, Python, SQL, Excel, Data Cleaning, and Exploratory Data Analysis.<br><br>⚡ Fun fact: I enjoy transforming raw data into meaningful insights and finding stories hidden inside datasets.
